@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pablo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pablo_jar</output-path>
+    <root id="archive" name="pablo.jar">
+      <element id="module-output" name="pablo" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/3.5.0/mongodb-driver-core-3.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.5.0/mongodb-driver-3.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/bson/3.5.0/bson-3.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-net/commons-net/3.6/commons-net-3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

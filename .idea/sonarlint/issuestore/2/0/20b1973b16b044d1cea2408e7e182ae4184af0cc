@@ -1,0 +1,40 @@
+
+`squid:S1192"KDefine a constant instead of duplicating this literal "userHScore" 5 times.(Ò¥Å¤
+`squid:S1192"FDefine a constant instead of duplicating this literal "hteam" 3 times.(ù“éäÿÿÿÿÿ
+asquid:S1192"LDefine a constant instead of duplicating this literal "totalPoints" 3 times.(ÎõÕİ
+esquid:S1192"KDefine a constant instead of duplicating this literal "userPoints" 3 times.(¤²ü¬ıÿÿÿÿ
+]squid:S1192"HDefine a constant instead of duplicating this literal "matchId" 6 times.(Üõ¤Ë
+^squid:S1192"IDefine a constant instead of duplicating this literal "userName" 8 times.(ÕÓ«ø
+[squid:S1192"FDefine a constant instead of duplicating this literal "ateam" 3 times.(¹¼’Ã
+esquid:S1192"KDefine a constant instead of duplicating this literal "userAScore" 5 times.(¤Êğ¦øÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(©‰n
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä¢‰ß
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Öş¾È
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Ğï»ÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù¤€€ıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Òš›‚
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(§àÁÛúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿Šˆ¢ûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù“éäÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¼’Ã
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(š³¤è
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö›Îåûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÊ¢‚
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ˆ÷Ğûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(€ óşÿÿÿÿÿ
+Lsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(ÅÄ¸á

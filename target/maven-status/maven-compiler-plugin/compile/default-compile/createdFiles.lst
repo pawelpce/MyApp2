@@ -1,0 +1,6 @@
+pl\bet\UsersDatabase.class
+pl\bet\BetAppFunctions.class
+pl\bet\PropertiesLoader.class
+pl\bet\BetApp.class
+pl\bet\MongoConnector.class
+pl\bet\MatchesDatabase.class
